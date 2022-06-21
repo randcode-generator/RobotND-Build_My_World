@@ -1,6 +1,6 @@
 # RobotND - Build My World
 
-The objective of this project is to build an office with robots in Gazabo
+This is the first project for the Udacity [Robotics Software Engineer](https://www.udacity.com/course/robotics-software-engineer--nd209) course. The objective of this project is to build an office with robots in Gazabo
 
 ![screenshot](images/image.png)
 
